@@ -5,8 +5,9 @@ Assignment 1: Convolutions using Gaussian, median, Laplacian filters for noise r
     
 Assignemet 2: Camera Calibration, Harris Corner Detection, Image Stiching/Panaroma
 
-Assignment 3: Stereo Vision,   Object Detection and Tracking using Viola Jones
-              Training 2 layer neural network by using the following features.
+Assignment 3: Stereo Vision,   Object Detection and Tracking using pretrained Viola Jones,
+
+         	Training 2 layer neural network by using the following features.
               A. Scale Invariant Feature Transform (SIFT)
               B. Linear Binary Pattern 
               C. AlexNet

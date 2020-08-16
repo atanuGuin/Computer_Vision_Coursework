@@ -1,2 +1,2 @@
 # ComputerVisionCourse
-Assignments done in Computer Vision course
+Assignments done in Computer Vision (CSL7360) course

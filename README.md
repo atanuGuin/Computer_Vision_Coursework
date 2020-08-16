@@ -11,3 +11,5 @@ Assignment 3: Stereo Vision,   Object Detection and Tracking using Viola Jones
               B. Linear Binary Pattern 
               C. AlexNet
               D. ResNet18
+
+Term Project: Density map estimation by U-Net segmentation model for crowd counting

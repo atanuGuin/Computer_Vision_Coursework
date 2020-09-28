@@ -1,6 +1,8 @@
 # Computer Vision Course
 Assignments and Projects done in Computer Vision (CSL7360) course
 
+Instructor: Dr. Mayank Vatsa, Department of Computer Science and Engineering, Indian Institute of Technology, Jodhpur
+
 Assignment 1: Convolutions using Gaussian, median, Laplacian filters for noise reduction. Use of Sharpening and Edge detection filters. 
     
 Assignemet 2: Camera Calibration, Harris Corner Detection, Image Stiching/Panaroma
